@@ -1,9 +1,22 @@
-# 特别声明
 
-1.本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
+## 欢迎使用
 
-2.编写本项目主要目的为学习和研究，无法保证项目内容的合法性、准确性、完整性和有效性，不得将本项目中任何内容用于违反国家/地区/组织等的法律法规或相关规定的其他用途。
+适用于 **Emby** 的 **D-ICON** 精简图标库
 
-3.所有基于本项目源代码，进行的任何修改，为其他个人或组织的自发行为，与本项目没有任何直接或间接的关系，所造成的一切后果亦与本项目无关。
+## 📦 **JSON地址**
+```
+https://raw.githubusercontent.com/cc63/Fileball/main/icons.json
+```
 
-4.本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
+## 🎭 图标预览
+<div align="center">
+
+![D-1](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/AcEmby.png)
+![D-2](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Alist.png)
+![D-3](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/ALiYun.png)
+![D-4](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Cloudfisher.png)
+![D-5](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Hxd2.png)
+![D-6](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Micu.png)
+![D-7](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/PornEmby.png)
+
+</div>
