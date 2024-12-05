@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX.json
 ## 🎭 图标预览
 <div align="center">
 
-![D-1](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/AcEmby.png)
+![D-1](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Robo.png)
 ![D-2](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Alist.png)
 ![D-3](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Cloudfisher.png)
 ![D-4](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Hxd2.png)
