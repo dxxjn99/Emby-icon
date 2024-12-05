@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX.json
 <div align="center">
 
 ![D-1](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Robo.png)
-![D-2](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Mugu.png)
+![D-2](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/MoGu.png)
 ![D-3](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Cloudfisher.png)
 ![D-4](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Hxd2.png)
 ![D-5](https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Micu.png)
