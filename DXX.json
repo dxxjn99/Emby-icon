@@ -3,10 +3,13 @@
 "description":"GitHub: @dxxjn99", 
 "icons":
     [
+	{"name":"1111", "url":"https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/1111.png"},
 	{"name":"AcEmby", "url":"https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/AcEmby.png"},
 	{"name":"Alist", "url":"https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Alist.png"},
 	{"name":"ALiYun","url":"https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/ALiYun.png"},
 	{"name":"Atvii","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Atvii.png"},
+	{"name":"AuroraMedia","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/AuroraMedia.png"},
+	{"name":"AWA","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/AWA.png"},
 	{"name": "BaiDuYun","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/BaiDuYun.png"},
 	{"name": "Bdd1","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Bdd1.png"},
 	{"name": "Bigbus","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Bigbus.png"},
@@ -37,6 +40,7 @@
 	{"name": "Nebula","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Nebula.png"},
 	{"name": "Nebula1","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Nebula1.png"},
 	{"name": "Nplayer","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Nplayer.png"},
+	{"name": "Nya","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Nya.png"},
 	{"name": "Odyssey","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Odyssey.png"},
 	{"name": "OneDrive","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/OneDrive.png"},
 	{"name": "OnlyFans","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/OnlyFans.png"},
@@ -52,6 +56,7 @@
 	{"name": "Tanhua1","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Tanhua1.png"},
 	{"name": "Terminus","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Terminus.png"},
 	{"name": "Tls","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Tls.png"},
-	{"name": "Webdav","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Webdav.png"}
+	{"name": "Webdav","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/Webdav.png"},
+	{"name": "YueBing","url": "https://raw.githubusercontent.com/dxxjn99/Emby-icon/main/DXX/YueBing.png"}
     ]
 }
